@@ -4,3 +4,4 @@ Rencana Tahapan Belajar
   2. Belajar PHP
   3. Belajar JavaScript
   4. Belajar Desain 2D
+  5. Belajar Python
